@@ -1,6 +1,7 @@
-<h1> Recriando a Página de Login do Instagram </h1>
-<br>
-![Insta-CLONE](https://user-images.githubusercontent.com/74883711/174199746-66d4edf0-7e66-45c5-b869-51b4272e6bf3.png)
+<h1> Recriando a Página de Login do Instagram </h1> <br>
+
+![Insta-CLONE](https://user-images.githubusercontent.com/74883711/174199746-66d4edf0-7e66-45c5-b869-51b4272e6bf3.png) 
+
 <br>
 
 <h2>Descrição</h2>
